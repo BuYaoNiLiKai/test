@@ -1,0 +1,6 @@
+﻿  01.cpp
+  02.cpp
+  03.cpp
+  04.cpp
+  正在生成代码...
+ARM\Debug\01.obj : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“ARM”冲突
